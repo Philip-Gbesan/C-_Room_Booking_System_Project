@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\myhelpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\myhelpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|c:\\users\\philip gbesan\\documents\\c#_files\\c#project\\c#project\\bookingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1E76B3-9A5F-40E1-9F0E-B65B1B884C10}|C#Project\\C#Project.csproj|solutionrelative:c#project\\bookingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyHelperMethods.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\MyHelperMethods.cs",
+              "RelativeDocumentMoniker": "C#Project\\MyHelperMethods.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\MyHelperMethods.cs",
+              "RelativeToolTip": "C#Project\\MyHelperMethods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:45:05.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Room.cs",
+              "RelativeDocumentMoniker": "C#Project\\Room.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Room.cs",
+              "RelativeToolTip": "C#Project\\Room.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:33:56.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "C#Project\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\InMemoryRepository.cs",
+              "RelativeToolTip": "C#Project\\InMemoryRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:32:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Customer.cs",
+              "RelativeDocumentMoniker": "C#Project\\Customer.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Customer.cs",
+              "RelativeToolTip": "C#Project\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:31:39.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "C#Project\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\CurrencyService.cs",
+              "RelativeToolTip": "C#Project\\CurrencyService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:31:03.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrencyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "C#Project\\CurrencyConverter.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\CurrencyConverter.cs",
+              "RelativeToolTip": "C#Project\\CurrencyConverter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:30:19.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Booking.cs",
+              "RelativeDocumentMoniker": "C#Project\\Booking.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Booking.cs",
+              "RelativeToolTip": "C#Project\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:28:29.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Program.cs",
+              "RelativeDocumentMoniker": "C#Project\\Program.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Program.cs",
+              "RelativeToolTip": "C#Project\\Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowLsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:26:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Irepository.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Irepository.cs",
+              "RelativeDocumentMoniker": "C#Project\\Irepository.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\Irepository.cs",
+              "RelativeToolTip": "C#Project\\Irepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:33:27.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\IEntity.cs",
+              "RelativeDocumentMoniker": "C#Project\\IEntity.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\IEntity.cs",
+              "RelativeToolTip": "C#Project\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:17:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\BookingExtensions.cs",
+              "RelativeDocumentMoniker": "C#Project\\BookingExtensions.cs",
+              "ToolTip": "C:\\Users\\PHILIP GBESAN\\Documents\\C#_Files\\C#Project\\C#Project\\BookingExtensions.cs",
+              "RelativeToolTip": "C#Project\\BookingExtensions.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:20:54.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

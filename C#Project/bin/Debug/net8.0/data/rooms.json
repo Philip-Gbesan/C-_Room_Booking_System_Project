@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "Type": "Presidential",
+    "PricePerNight": 100000,
+    "IsBooked": false
+  },
+  {
+    "Id": 2,
+    "Type": "Executive",
+    "PricePerNight": 60000,
+    "IsBooked": false
+  },
+  {
+    "Id": 3,
+    "Type": "Executive",
+    "PricePerNight": 60000,
+    "IsBooked": false
+  },
+  {
+    "Id": 4,
+    "Type": "Suite",
+    "PricePerNight": 40000,
+    "IsBooked": false
+  },
+  {
+    "Id": 5,
+    "Type": "Suite",
+    "PricePerNight": 40000,
+    "IsBooked": false
+  },
+  {
+    "Id": 6,
+    "Type": "Suite",
+    "PricePerNight": 40000,
+    "IsBooked": false
+  },
+  {
+    "Id": 7,
+    "Type": "Deluxe",
+    "PricePerNight": 25000,
+    "IsBooked": false
+  },
+  {
+    "Id": 8,
+    "Type": "Deluxe",
+    "PricePerNight": 25000,
+    "IsBooked": false
+  },
+  {
+    "Id": 9,
+    "Type": "Deluxe",
+    "PricePerNight": 25000,
+    "IsBooked": false
+  },
+  {
+    "Id": 10,
+    "Type": "Deluxe",
+    "PricePerNight": 25000,
+    "IsBooked": false
+  },
+  {
+    "Id": 11,
+    "Type": "Standard",
+    "PricePerNight": 15000,
+    "IsBooked": false
+  },
+  {
+    "Id": 12,
+    "Type": "Standard",
+    "PricePerNight": 15000,
+    "IsBooked": false
+  },
+  {
+    "Id": 13,
+    "Type": "Standard",
+    "PricePerNight": 15000,
+    "IsBooked": false
+  },
+  {
+    "Id": 14,
+    "Type": "Standard",
+    "PricePerNight": 15000,
+    "IsBooked": false
+  },
+  {
+    "Id": 15,
+    "Type": "Standard",
+    "PricePerNight": 15000,
+    "IsBooked": false
+  }
+]
